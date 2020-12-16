@@ -1,5 +1,5 @@
 module.exports = {
-    mongoURI:
-        'mongodb+srv://user:9w7HVR6z77UujXYQ@cluster0-n4wm7.gcp.mongodb.net/test?retryWrites=true&w=majority',
-    secretOrKey: 'secret',
+  mongoURI:
+    'mongodb+srv://admin:Kumar123456@cluster0.3olfr.mongodb.net/chat?retryWrites=true&w=majority',
+  secretOrKey: 'secret',
 };
